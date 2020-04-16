@@ -18,7 +18,7 @@ A straightforward design for an eCommerce website connected to a MySQL database.
 
 * Checkout Page
 
-![Example Checkout Page](/images/example-checkout.png "Example Checkout Page")
+![Example Checkout Page](/images/exampe-checkout.png "Example Checkout Page")
 
 * Confirmation Page
 
